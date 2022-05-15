@@ -1,8 +1,8 @@
-# React Shopping Cart
+# Shopping Cart
 
 ## Description
 
-In this project, I've create a simple React Shopping Cart to keep track of items in stock. The user can add items to their shopping cart and the quantity of items in stock will update accordingly.
+In this project, I've create a simple Shopping Cart to keep track of items in stock. The user can add items to their shopping cart and the quantity of items in stock will update accordingly.
 
 The starter code was provided by MIT xPro.
 
