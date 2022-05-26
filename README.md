@@ -22,7 +22,7 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
 
-[React App](https://github.com/facebook/create-react-app) was used to create this app.
+[React](https://github.com/facebook/create-react-app) was used to create this app.
 
 ### MIT License
 
