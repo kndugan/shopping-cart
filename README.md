@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I've create a simple Shopping Cart to keep track of items in stock. The user can add items to their shopping cart and the quantity of items in stock will update accordingly.
+In this project, I've create a simple Shopping Cart with [React](https://github.com/facebook/create-react-app) to keep track of items in stock. The user can add items to their shopping cart and the quantity of items in stock will update accordingly.
 
 The starter code was provided by MIT xPro.
 
@@ -21,6 +21,8 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 ## License Information
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
+
+[React App](https://github.com/facebook/create-react-app) was used to create this app.
 
 ### MIT License
 
